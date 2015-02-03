@@ -4,7 +4,7 @@ border-top-width: 5px;
 }
 
 .well-box-green {
-border-top-color: #3FC238;
+border-top-color: #215C19;
 border-top-width: 5px;
 }
 
@@ -19,11 +19,11 @@ border-top-width: 5px;
 }
 
 .well-box-lightblue {
-border-top-color: #2CBFAC;
+border-top-color: #2CDAFF;
 border-top-width: 5px;
 }
 
-.well-box-orange {
-border-top-color: #BF7031;
+.well-box-lightgreen {
+border-top-color: #5BFF45;
 border-top-width: 5px;
 }

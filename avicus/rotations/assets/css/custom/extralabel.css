@@ -1,9 +1,34 @@
-.label-purple {
+.xlabel-blue {
+    background-color:#3853BF;
+    color:#fff;
+}
+
+.xlabel-darkgreen {
+    background-color:#215C19;
+    color:#fff;
+}
+
+.xlabel-purple {
     background-color:#AB3AA4;
     color:#fff;
 }
 
-.label-darkgreen {
-    background-color:#215716;
+.xlabel-red {
+    background-color:#B53423;
+    color:#fff;
+}
+
+.xlabel-lightblue {
+    background-color:#2CDAFF;
+    color:#fff;
+}
+
+.xlabel-lightgreen {
+    background-color:#5BFF45;
+    color:#fff;
+}
+
+.xlabel-orange {
+    background-color:#FF9418;
     color:#fff;
 }
